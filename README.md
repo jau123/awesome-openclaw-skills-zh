@@ -1473,3 +1473,5 @@
 # 从 OpenClaw 官方库安装技能
 openclaw skill install https://clawdhub.com/skills/[技能]
 ```
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
